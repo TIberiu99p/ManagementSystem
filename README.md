@@ -28,7 +28,10 @@ ManagementSystem is a comprehensive solution designed to streamline and manage. 
 To set up the ManagementSystem project on your local machine, follow these steps:
 1. Clone the repository: `git clone https://github.com/TIberiu99p/ManagementSystem.git`
 2. Navigate to the project directory: `cd ManagementSystem`
-
+3. Run the application:
+   - Restore the necessary packages: `dotnet restore`
+   - Build the project: `dotnet build`
+   - Start the application: `dotnet run`
 
 ## Usage
 To use the ManagementSystem, follow these steps:
