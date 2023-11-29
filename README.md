@@ -30,7 +30,7 @@ To set up the ManagementSystem project on your local machine, follow these steps
 2. Navigate to the project directory: `cd ManagementSystem`
 3.1. Open the `appsettings.json` file in the project.
 3.2 Locate the connection string for the university server.
-3.3. Replace the connection string with the one provided by your university's IT department.
+3.3. Replace the connection string with the one provided.
 3.4. Save the `appsettings.json` file.
 4. Run the application:
    - Restore the necessary packages: `dotnet restore`
