@@ -24,24 +24,6 @@ ManagementSystem is a comprehensive solution designed to streamline and manage. 
 - JavaScript (for Blazor interop)
 
 
-## Installation and Setup
-To set up the ManagementSystem project on your local machine, follow these steps:
-1. Clone the repository: `git clone https://github.com/TIberiu99p/ManagementSystem.git`
-2. Navigate to the project directory: `cd ManagementSystem`
-3.1. Open the `appsettings.json` file in the project.
-3.2 Locate the connection string for the university server.
-3.3. Replace the connection string with the one provided.
-3.4. Save the `appsettings.json` file.
-4. Run the application:
-   - Restore the necessary packages: `dotnet restore`
-   - Build the project: `dotnet build`
-   - Start the application: `dotnet run`
 
-## Usage
-To use the ManagementSystem, follow these steps:
-1. Start the application.
-2. Log in using your credentials. If you don't have an account, register a new one.
-3. Navigate through the dashboard to manage products, categories, and transactions.
-4. Use the role-based access control to manage user roles and permissions.
 
 
